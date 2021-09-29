@@ -36,6 +36,7 @@ const SignUp = () => {
         placeholder="Name"
       />
       <br />
+      <br />
       <input
         type="password"
         value={password}
